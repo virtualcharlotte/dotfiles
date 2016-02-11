@@ -1,0 +1,17 @@
+[2016-02-11 09:49:27] WeeChat 1.4 (compiled on Jan 10 2016 20:04:06)
+[2016-02-11 09:49:27] Reading configuration file sec.conf
+[2016-02-11 09:49:27] Reading configuration file weechat.conf
+[2016-02-11 09:49:28] Reading configuration file plugins.conf
+[2016-02-11 09:49:28] Reading configuration file charset.conf
+[2016-02-11 09:49:28] Reading configuration file logger.conf
+[2016-02-11 09:49:28] Reading configuration file exec.conf
+[2016-02-11 09:49:28] Reading configuration file trigger.conf
+[2016-02-11 09:49:28] Reading configuration file aspell.conf
+[2016-02-11 09:49:28] Reading configuration file alias.conf
+[2016-02-11 09:49:28] Reading configuration file xfer.conf
+[2016-02-11 09:49:28] Reading configuration file irc.conf
+[2016-02-11 09:49:28] Reading configuration file relay.conf
+[2016-02-11 09:49:29] Reading configuration file script.conf
+[2016-02-11 09:49:51] irc: connecting to server irc.zulusquad.org/6667...
+[2016-02-11 11:12:45] irc: connecting to server irc.zulusquad.org/6667...
+[2016-02-11 14:03:20] irc: connecting to server irc.zulusquad.org/6667...

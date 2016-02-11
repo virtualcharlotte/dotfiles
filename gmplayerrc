@@ -1,0 +1,7 @@
+{
+  "email": "charlotte@t-ara.eu",
+  "password": "********", //normal password
+  "tracknaming": "{title} - {artist}",
+  "albumnaming": "{album}",
+  "playlistnaming": "{name} - {albumArtist}"
+}
