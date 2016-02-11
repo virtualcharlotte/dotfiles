@@ -1,0 +1,13 @@
+IMAGE=/tmp/i3lock.png
+SCREENSHOT="scrot $IMAGE" 
+ICON="$HOME/.xlock/nsalock.png"
+
+BLURTYPE="0x5" # blur that shit yo make it unintelligible
+
+#take screenshot, blur it and composite logo
+$SCREENSHOT
+convert $IMAGE -blur $BLURTYPE $IMAGE
+convert $IMAGE $ICON -gravity center -composite -matte $IMAGE
+i3lock -e -f -i $IMAGE 
+#ignore empty passwords and show failures
+rm $IMAGE #clean up ur fukin mess charlotte
