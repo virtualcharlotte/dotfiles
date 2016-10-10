@@ -10,4 +10,4 @@ convert $IMAGE -blur $BLURTYPE $IMAGE
 convert $IMAGE $ICON -gravity center -composite -matte $IMAGE
 i3lock -e -f -i $IMAGE 
 #ignore empty passwords and show failures
-rm $IMAGE #clean up ur fukin mess charlotte
+rm $IMAGE #clean up ur mess charlotte
