@@ -2,7 +2,7 @@ IMAGE=/tmp/i3lock.png
 SCREENSHOT="scrot $IMAGE" 
 ICON="$HOME/.xlock/nsalock.png"
 
-BLURTYPE="0x5" # blur that shit yo make it unintelligible
+BLURTYPE="0x5" # blur it yo make it unintelligible
 
 #take screenshot, blur it and composite logo
 $SCREENSHOT
