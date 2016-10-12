@@ -1,0 +1,971 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<purple version='1.0'>
+	<blist>
+		<group name='Skype'>
+			<setting name='collapsed' type='bool'>0</setting>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>weenis37</name>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>07579eeac7f203c0a33d0bb8c45aa7fa67c988fb.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/weenis37/profile/avatar?auth_key=-1581594647</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>kaas-yannick</name>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>b8e94749d25f7e7e7c13a8951a6c2ad5eeb5aaf7.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/kaas-yannick/profile/avatar?auth_key=-322454627</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>thinredline30</name>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>9968d0f44652fee277a1614283cb7cbddc41686f.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/thinredline30/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>lolcopters</name>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>1fe2fa684d277e311679d70cf4673f44a48edfdc.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/lolcopters/profile/avatar?auth_key=-1310957230</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>bodminzer</name>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>fb7cc7b099aa8c2457b15f2ef49bc529b0a8b3b0.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/bodminzer/profile/avatar?auth_key=-1820914644</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>live:sarah.devereux</name>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>2c1d6a9f3b977415bd23cc7fdafefefe39419e23.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/live:sarah.devereux/profile/avatar?auth_key=1662175497</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>dakanagarrettson</name>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>609c4407e89d2559d428f54071cce1dba5c4832d.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/dakanagarrettson/profile/avatar?auth_key=1083941150</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>katushkin1989</name>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>70548b489e118e7e21087bbbc42a10448a9e6a94.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/katushkin1989/profile/avatar?auth_key=-824437085</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>mandozer1488</name>
+					<alias>Haisam</alias>
+					<setting name='buddy_icon' type='string'>ec6b5ff811a4f16526537fdbfbfb696ac3b25ee5.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/mandozer1488/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>robynburnside</name>
+					<alias>Robyn</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>2105cf3924b66a98b3162e3689032f33d7644f9c.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/robynburnside/profile/avatar?auth_key=128460002</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>echo123</name>
+					<alias>Echo / Sound Test Service</alias>
+					<setting name='buddy_icon' type='string'>9f0f794238b23f70ccf6ae7700f252832c5585e1.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/echo123/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>j0lteon</name>
+					<alias>Jade</alias>
+					<setting name='buddy_icon' type='string'>ec6b5ff811a4f16526537fdbfbfb696ac3b25ee5.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/j0lteon/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>leadsopjordan</name>
+					<alias>Jaff</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>5c9ff580fdd5e6bc772a7923cd52743fc3141821.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/leadsopjordan/profile/avatar?auth_key=-2023331886</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>sylnai</name>
+					<alias>Lucia</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>leetcheese</name>
+					<alias>Adam</alias>
+					<setting name='buddy_icon' type='string'>3b1e49874faa52f42338187df9f2ae200b682bf8.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/leetcheese/profile/avatar?auth_key=891530620</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>charlotte.brolan.capgemini</name>
+					<alias>Charlotte Brolan</alias>
+					<setting name='buddy_icon' type='string'>984bf02969c4d35a6a56252b7db20e15dbfa9715.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/charlotte.brolan.capgemini/profile/avatar?auth_key=-135686950</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>donsplodey</name>
+					<alias>Don</alias>
+					<setting name='buddy_icon' type='string'>43562119abde996400234626f6863c59cfd1bfab.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/donsplodey/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>finonethousand712</name>
+					<alias>Fin1712</alias>
+					<setting name='buddy_icon' type='string'>917808f4c92be272e361d20c1735a856cc4afb2e.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/finonethousand712/profile/avatar?auth_key=-19748791</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>cory.troy</name>
+					<alias>cory.troy</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>fcdd40f76e75ceacd662e4c0a8120bec1314cfb3.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/cory.troy/profile/avatar?auth_key=-859392307</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>donpdonp12</name>
+					<alias>donpdonp12</alias>
+					<setting name='buddy_icon' type='string'>ec6b5ff811a4f16526537fdbfbfb696ac3b25ee5.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/donpdonp12/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>vivamiriya69420</name>
+					<alias>Mandozer</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>e5f75c7b66b0b06cfa9c295afc2a8b12afb94d19.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/vivamiriya69420/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>sklullus</name>
+					<alias>Harry</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>c0cd4051b08289657c3c00010d0a216394131098.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/sklullus/profile/avatar?auth_key=-1933383922</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>thebard86</name>
+					<alias>PewPew</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>27d3bb7f795c0ee55fb1d343e8cabdc1ffcc2d75.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/thebard86/profile/avatar?auth_key=-298253162</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>genkisgenki</name>
+					<alias>genki genki</alias>
+					<setting name='buddy_icon' type='string'>6abb178a6c0b5cdeeb1e9f4b895c4939ee123e2e.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/genkisgenki/profile/avatar?auth_key=600136358</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>kambooy</name>
+					<alias>kambooy</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>ce88ce25f04cc9c811aacd664c50a77642d24a55.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/kambooy/profile/avatar?auth_key=629562458</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>oddmastlp</name>
+					<alias>Benjy</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>9bbeaba87552a68a531310ca92d1f81a3973267b.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/oddmastlp/profile/avatar?auth_key=1407514201</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>vahiki2</name>
+					<alias>Jinxit</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>381acffeebc8aad6de1e90346848f064fa80b2db.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/vahiki2/profile/avatar?auth_key=-1347674209</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>rpkilkenny</name>
+					<alias>rpkilkenny</alias>
+					<setting name='buddy_icon' type='string'>ec6b5ff811a4f16526537fdbfbfb696ac3b25ee5.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/rpkilkenny/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>james.reynolds.cap</name>
+					<alias>James</alias>
+					<setting name='buddy_icon' type='string'>85e2e8e3dc9929672c3e16aa587ede9a22cf8440.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/james.reynolds.cap/profile/avatar?auth_key=-1723975174</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>nnonnqw</name>
+					<alias>Nathan Seese</alias>
+					<setting name='buddy_icon' type='string'>ec6b5ff811a4f16526537fdbfbfb696ac3b25ee5.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/nnonnqw/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>joshua-arnold</name>
+					<alias>Joshua</alias>
+					<setting name='buddy_icon' type='string'>cb347200242198bec36aaa0d7deaac40f2b04e24.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/joshua-arnold/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>belka.valdis</name>
+					<alias>Lucy S</alias>
+					<setting name='buddy_icon' type='string'>d18fce0b53968f5680a4579f3e26b9f34ef10ec5.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/belka.valdis/profile/avatar?auth_key=-1008416567</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>ottokrieg</name>
+					<alias>OttoKrieg</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>6106a53b9877bb1bede11b96b4094824654765eb.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/ottokrieg/profile/avatar?auth_key=-1129302640</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>grathtelkin</name>
+					<alias>Grath</alias>
+					<setting name='buddy_icon' type='string'>643880b7c4b62b28bdffed4b278392d0eaf2fd6a.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/grathtelkin/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>mylkandsugar</name>
+					<alias>Milk</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>7a3cdec9db260d9f876c3c8ee7df0e4e909aadb6.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/mylkandsugar/profile/avatar?auth_key=-1618141407</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>figrug</name>
+					<alias>Josh</alias>
+					<setting name='buddy_icon' type='string'>c9d0582043a5ea1b55c053fd7a938743f17bec7e.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/figrug/profile/avatar?auth_key=243638661</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>fluoriteblue</name>
+					<alias>Amanda</alias>
+					<setting name='buddy_icon' type='string'>ec6b5ff811a4f16526537fdbfbfb696ac3b25ee5.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/fluoriteblue/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>groo.nordic</name>
+					<alias>Groo Nordic</alias>
+					<setting name='buddy_icon' type='string'>8015c93ba57f3a060182ea6f1f431ea8c894b4cc.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/groo.nordic/profile/avatar</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>lutraphobe</name>
+					<alias>shucks</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>brodyborya</name>
+					<alias>Lucia</alias>
+					<setting name='buddy_icon' type='string'>b37ef84fe729e1a5a06005ecfa9fc0eff2d51e92.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/brodyborya/profile/avatar?auth_key=2010158384</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>imkimberleyscott</name>
+					<alias>Kimberley</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>6fd4dfe2cb4d49969c2bc6857a281a52d65253c5.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/imkimberleyscott/profile/avatar?auth_key=-833118914</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>live:aarongreen_1</name>
+					<alias>Aaron</alias>
+					<setting name='last_seen' type='int'>1476191929</setting>
+					<setting name='buddy_icon' type='string'>16d21cf75d2cb3ac9b6009e1fbbc3f2d66ade2ed.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://api.skype.com/users/live:aarongreen_1/profile/avatar?auth_key=2001052921</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='virtual_lottie' proto='prpl-skypeweb'>
+					<name>charlotte@t-ara.eu</name>
+					<setting name='last_seen' type='int'>1476191929</setting>
+				</buddy>
+			</contact>
+		</group>
+		<group>
+			<setting name='collapsed' type='bool'>0</setting>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100001354661184</name>
+					<setting name='last_seen' type='int'>1476265558</setting>
+					<setting name='buddy_icon' type='string'>ec9538cbda691dbc36e7469ce7cc91e2f79f7054.jpg</setting>
+					<setting name='icon_checksum' type='string'>b9ffc7269a06cc03e9d2fd4eef571eaf</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100005074660226</name>
+					<setting name='last_seen' type='int'>1476269871</setting>
+					<setting name='buddy_icon' type='string'>1920ff6e01b57b79fae42eccc98f8cd746503ad6.jpg</setting>
+					<setting name='icon_checksum' type='string'>b9ce7b81e679fa5a63ba6bba692a0681</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100006619143197</name>
+					<setting name='buddy_icon' type='string'>642759f9d652553ecd22164487663cf3aa5eb0ef.jpg</setting>
+					<setting name='icon_checksum' type='string'>420076eb038e0c15dadccccad72df3e0</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1519260369</name>
+					<setting name='buddy_icon' type='string'>7a1ab489aa0b4e4f66252452059b95328f61d5cb.jpg</setting>
+					<setting name='icon_checksum' type='string'>d3c91c502d4ffe2a8989282ba00d2e1b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>502346516</name>
+					<setting name='buddy_icon' type='string'>eb0a0e41974b15c27328834243e501625d82009b.jpg</setting>
+					<setting name='icon_checksum' type='string'>b9ff6d4062e914aba29e1174b97a6cd4</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>507218940</name>
+					<setting name='last_seen' type='int'>1476189551</setting>
+					<setting name='buddy_icon' type='string'>28079a5e40b55b7c4baaac59e3c918632236f528.jpg</setting>
+					<setting name='icon_checksum' type='string'>f25debed4a90018ee4ff260758acc424</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>741109312</name>
+					<setting name='last_seen' type='int'>1476195289</setting>
+					<setting name='buddy_icon' type='string'>b8be2b2e4a912acc7522c877cd47a875b5ac7047.jpg</setting>
+					<setting name='icon_checksum' type='string'>aa2de9ffb1f34327b147b91898a1d095</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>577664851</name>
+					<setting name='last_seen' type='int'>1476264565</setting>
+					<setting name='buddy_icon' type='string'>a389f805cb5e015c549d581c9699bb39ed9d6b1a.jpg</setting>
+					<setting name='icon_checksum' type='string'>271be7d392d266d41a87a30864e2ba3e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>656737440</name>
+					<setting name='last_seen' type='int'>1476264199</setting>
+					<setting name='buddy_icon' type='string'>b040d1cadc331c8c1a5a84fafc69684b6ba1385c.jpg</setting>
+					<setting name='icon_checksum' type='string'>aedf11f3f9723bbfece473e9f27b4d71</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>605585190</name>
+					<setting name='last_seen' type='int'>1476199914</setting>
+					<setting name='buddy_icon' type='string'>f80bc6c48c378164254a60cfa22ec63304abb870.jpg</setting>
+					<setting name='icon_checksum' type='string'>8d291c20ff0b1da08b479f22a3aa70a4</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>777265466</name>
+					<setting name='buddy_icon' type='string'>74b0e4128e5d6c26777efde934817c045c35b093.jpg</setting>
+					<setting name='icon_checksum' type='string'>a5e4c432114945a712f3d312f24262c4</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>789675771</name>
+					<setting name='last_seen' type='int'>1476189249</setting>
+					<setting name='buddy_icon' type='string'>e81b6cb803f113a7c9af1d91e219f7cef99f7145.jpg</setting>
+					<setting name='icon_checksum' type='string'>748b134beefcad07e958804882af356d</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100002612611602</name>
+					<setting name='buddy_icon' type='string'>0800a32eacfdbc81896014e8650ad1224950ac73.jpg</setting>
+					<setting name='icon_checksum' type='string'>0972c5b4585428c1c1c55f1c54bc4aaa</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>642889206</name>
+					<setting name='buddy_icon' type='string'>5b611b2491afc61557d1f9ee942aa84e566631bd.jpg</setting>
+					<setting name='icon_checksum' type='string'>22a95495add7500359eef6e604fda789</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>839557481</name>
+					<setting name='last_seen' type='int'>1476200669</setting>
+					<setting name='buddy_icon' type='string'>b2bb91104274cbb23973d9c891822ab58e67d19f.jpg</setting>
+					<setting name='icon_checksum' type='string'>cca825e24c8deef389f366563b65690a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1092090784</name>
+					<setting name='last_seen' type='int'>1476267521</setting>
+					<setting name='buddy_icon' type='string'>5f8ee04c0030edd38c1e8ffa59e3c47040c67934.jpg</setting>
+					<setting name='icon_checksum' type='string'>d9628765070671dd87f5b8203ab2095d</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1168084280</name>
+					<setting name='last_seen' type='int'>1476199310</setting>
+					<setting name='buddy_icon' type='string'>435789f71da48473cc0dd297090978945bde7da2.jpg</setting>
+					<setting name='icon_checksum' type='string'>ae685b9123326acb4f676ea866dd833c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100002130217836</name>
+					<setting name='buddy_icon' type='string'>419580bffb205161266c0cdcd13cbcc01ba95cce.jpg</setting>
+					<setting name='icon_checksum' type='string'>3d9b126f5b591594e255cd4d297cb25b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>655866448</name>
+					<setting name='buddy_icon' type='string'>bb24b1555171cd1ad2a7e8485b7f7d76dfad1740.jpg</setting>
+					<setting name='icon_checksum' type='string'>a5749ffb9ec58d887bc04ff4ce8b509a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>658256636</name>
+					<setting name='buddy_icon' type='string'>db6a421b1ae45ca0c1ba370be90573aed61bc22e.jpg</setting>
+					<setting name='icon_checksum' type='string'>54918b7a31d55d835de09413c2165a1a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>507620039</name>
+					<setting name='last_seen' type='int'>1476269745</setting>
+					<setting name='buddy_icon' type='string'>cea1e21995c7e49b497a3855483f427dfe5ca80a.jpg</setting>
+					<setting name='icon_checksum' type='string'>37ae354799f9c594ccb9e1f30489ae7b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100000156435022</name>
+					<setting name='last_seen' type='int'>1476199310</setting>
+					<setting name='buddy_icon' type='string'>b507b9173d62ed785ff2a6b2b757306ec7e8fa51.jpg</setting>
+					<setting name='icon_checksum' type='string'>413adbfdd0acb7f84c817491c084eb8b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100006243661417</name>
+					<setting name='buddy_icon' type='string'>0e6d965d09c58bd01f007055ca8d9d196389fa67.jpg</setting>
+					<setting name='icon_checksum' type='string'>feffd490e794e798fd682ede6d1ab11d</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>509851435</name>
+					<setting name='last_seen' type='int'>1476189853</setting>
+					<setting name='buddy_icon' type='string'>875642b56079db4a35a3cbefa3c44c7cc114c022.jpg</setting>
+					<setting name='icon_checksum' type='string'>2f2e29d95cb2f926da1df77718254f04</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1387938682</name>
+					<setting name='last_seen' type='int'>1476267370</setting>
+					<setting name='buddy_icon' type='string'>fcc79abd323fc73a37d67946060f0c7c7c382a26.jpg</setting>
+					<setting name='icon_checksum' type='string'>ad8f23e491bb56c330644fa0675400ca</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100004060070444</name>
+					<setting name='buddy_icon' type='string'>363b35a506876534bb8e2bb06e890e00c9b1824e.jpg</setting>
+					<setting name='icon_checksum' type='string'>ee3b37e066e3509508b62b141f784643</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1513129744</name>
+					<setting name='last_seen' type='int'>1476263587</setting>
+					<setting name='buddy_icon' type='string'>8230f79d110280dc8c47bbab186fb6da7c5b4235.jpg</setting>
+					<setting name='icon_checksum' type='string'>97e3afe22c33f9bc7b830c7cc0602f4e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>760950650</name>
+					<setting name='last_seen' type='int'>1476264501</setting>
+					<setting name='buddy_icon' type='string'>b84dbcc0c25452fc7b1e2ae619b4f01a24d0413a.jpg</setting>
+					<setting name='icon_checksum' type='string'>fdea5dfe8a1fcfcc824aa67f332d7ca7</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>508904152</name>
+					<setting name='last_seen' type='int'>1476190457</setting>
+					<setting name='buddy_icon' type='string'>9a856ea25911b999296cc443e15bed68e0b816fc.jpg</setting>
+					<setting name='icon_checksum' type='string'>34916deda5c0c85e8370327e8d0d0098</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>827120192</name>
+					<setting name='last_seen' type='int'>1476200833</setting>
+					<setting name='buddy_icon' type='string'>c81083a92f1061ec49a550e3053f167f49b8c0f8.jpg</setting>
+					<setting name='icon_checksum' type='string'>537314894a0b13156ba423551738f870</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>717820947</name>
+					<setting name='buddy_icon' type='string'>852256bd08b3fb897fabe3a97eef9f4be423a81b.jpg</setting>
+					<setting name='icon_checksum' type='string'>f0fd695ea7d60f92267292639ec660ee</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100000637722773</name>
+					<setting name='last_seen' type='int'>1476200348</setting>
+					<setting name='buddy_icon' type='string'>4b61275877d73f6c695c5b16238525f9a71c3965.jpg</setting>
+					<setting name='icon_checksum' type='string'>aabeb4570665b57786acdc65de320f04</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100002582423326</name>
+					<setting name='buddy_icon' type='string'>494469267a47b066e264f0ac0e6586bdf6e96218.jpg</setting>
+					<setting name='icon_checksum' type='string'>50b6afeb6aed2ea36609496556212a3d</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>507438182</name>
+					<setting name='last_seen' type='int'>1476191061</setting>
+					<setting name='buddy_icon' type='string'>4c044aea10dd64e1ac5d0793d124b14e7644b976.jpg</setting>
+					<setting name='icon_checksum' type='string'>883ca267465b08822ddd13f824dcf985</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>515636665</name>
+					<setting name='last_seen' type='int'>1476268814</setting>
+					<setting name='buddy_icon' type='string'>3f1b3abeba7f78122c1078cf9773a4791019b44d.jpg</setting>
+					<setting name='icon_checksum' type='string'>d5ca7072e0ac40aa313db7dd6e956c15</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>562840441</name>
+					<setting name='last_seen' type='int'>1476194828</setting>
+					<setting name='buddy_icon' type='string'>ec7c687eee9eabce7615a38563afb20a43fa012d.jpg</setting>
+					<setting name='icon_checksum' type='string'>a703d82e30d2a3484ef0e63bc6c659ae</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>506277914</name>
+					<setting name='last_seen' type='int'>1476265105</setting>
+					<setting name='buddy_icon' type='string'>e8960efd6058ee2070bf2daebee84d330af98cb1.jpg</setting>
+					<setting name='icon_checksum' type='string'>00cc55e0e7f1e9589a75f81873f046e7</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>502657406</name>
+					<setting name='last_seen' type='int'>1476193930</setting>
+					<setting name='buddy_icon' type='string'>774bab658a9400768e827225e30e02591cd303df.jpg</setting>
+					<setting name='icon_checksum' type='string'>72ce95bf07812e5c6c7454ce73b0e671</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100000368859036</name>
+					<setting name='last_seen' type='int'>1476183813</setting>
+					<setting name='buddy_icon' type='string'>920d1330108b588197e29e9917f5294273ae17c3.jpg</setting>
+					<setting name='icon_checksum' type='string'>dafaa97dd2a314160e9b87514c23eae8</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100009532540161</name>
+					<setting name='last_seen' type='int'>1476266194</setting>
+					<setting name='buddy_icon' type='string'>6d3d7c32d240f7e2e160d6d6c5757c9ab5a7b220.jpg</setting>
+					<setting name='icon_checksum' type='string'>b18a3eeca6733a7731a63317f04ddb70</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100005553558653</name>
+					<setting name='last_seen' type='int'>1476268436</setting>
+					<setting name='buddy_icon' type='string'>6e8d12a486145ff5ee5b4b9477200c01a64ee9df.jpg</setting>
+					<setting name='icon_checksum' type='string'>f1bc58690b9ff640d392331402dd9daf</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100000225940014</name>
+					<setting name='last_seen' type='int'>1476200894</setting>
+					<setting name='buddy_icon' type='string'>c5b5af170e2e7caf28a7507a2f6b72016f71e20b.jpg</setting>
+					<setting name='icon_checksum' type='string'>90b6122888773f29feaa7b0f1b62bf09</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1257387283</name>
+					<setting name='buddy_icon' type='string'>7b02c30df2195db3f77582ef2b7b8c2cf514ec94.jpg</setting>
+					<setting name='icon_checksum' type='string'>ca88bb1552e9fa1c43f207403e73b92a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1783352635</name>
+					<setting name='buddy_icon' type='string'>3298f3ca1e1d9ba2116e74a0a70198e820b5f8c4.jpg</setting>
+					<setting name='icon_checksum' type='string'>eeed9e4b6f3893518d82ab26213509fa</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100006459801543</name>
+					<setting name='last_seen' type='int'>1476200701</setting>
+					<setting name='buddy_icon' type='string'>1a4c074a02277c17676861906e3adc787c8fa479.jpg</setting>
+					<setting name='icon_checksum' type='string'>a5163ef0691cddf6c209882ef8df09bf</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>634182745</name>
+					<setting name='last_seen' type='int'>1476200725</setting>
+					<setting name='buddy_icon' type='string'>bf3752f400bd579c3e95fc4204b0def77520ef2a.jpg</setting>
+					<setting name='icon_checksum' type='string'>695955db152a2ff2245763dac26dffcc</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>729576834</name>
+					<setting name='last_seen' type='int'>1476195956</setting>
+					<setting name='buddy_icon' type='string'>a03a6c6f11941b9cad486eb7931d581a8d23b584.jpg</setting>
+					<setting name='icon_checksum' type='string'>9f82145eabc885d8ab5591b940415045</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100000258775017</name>
+					<setting name='last_seen' type='int'>1476269871</setting>
+					<setting name='buddy_icon' type='string'>8944d130fab3e916c4859a41d396b543f8ca0937.jpg</setting>
+					<setting name='icon_checksum' type='string'>33b6f035ad6217a0ad930eeb771a58b3</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1549325717</name>
+					<setting name='last_seen' type='int'>1476269727</setting>
+					<setting name='buddy_icon' type='string'>1f02e5b2f48b9f864ceb3ab7eee67cc7341f4f92.jpg</setting>
+					<setting name='icon_checksum' type='string'>e5318dac00845752f410bc0a1f3269a9</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100004416343516</name>
+					<setting name='last_seen' type='int'>1476265306</setting>
+					<setting name='buddy_icon' type='string'>a72d75540ff0ed1b3748caf1ca7b17f2d7c79743.jpg</setting>
+					<setting name='icon_checksum' type='string'>20ed5a4582289c0cb3fdcf7c9377fe13</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1203765177</name>
+					<setting name='last_seen' type='int'>1476184492</setting>
+					<setting name='buddy_icon' type='string'>4ce804153581e5901aa969a5ec9d1c81e6601cb2.jpg</setting>
+					<setting name='icon_checksum' type='string'>5b9c63f04601d85ab7298e23f9f32e9c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1005510107</name>
+					<setting name='buddy_icon' type='string'>b43450b3db4508df300eb6e2031b92fbfedf68be.jpg</setting>
+					<setting name='icon_checksum' type='string'>ab47129dae56a8927ce45be605152b74</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100004676928658</name>
+					<setting name='last_seen' type='int'>1476195648</setting>
+					<setting name='buddy_icon' type='string'>6d14b92a90d4bcfc2c703f92437f475a104b0e58.jpg</setting>
+					<setting name='icon_checksum' type='string'>9fb401c08a808df905b5750e00b9322d</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>557951152</name>
+					<setting name='last_seen' type='int'>1476200065</setting>
+					<setting name='buddy_icon' type='string'>01a6e6fbb68fd8495a28312e87db5609a015c7b7.jpg</setting>
+					<setting name='icon_checksum' type='string'>62d4566948a5e189e31cb807604f1d27</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>780330132</name>
+					<setting name='last_seen' type='int'>1476193318</setting>
+					<setting name='buddy_icon' type='string'>fd718789f5642ad9b13e014717d7dfa191599346.jpg</setting>
+					<setting name='icon_checksum' type='string'>a7b246cbbd756f03e7b36247676a68ad</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100003575447560</name>
+					<setting name='buddy_icon' type='string'>93c6c8b366c3f69ccfb5046f2c8f8154c5902674.jpg</setting>
+					<setting name='icon_checksum' type='string'>99359bfee03bbc4caae7888209fadef6</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>550095706</name>
+					<setting name='buddy_icon' type='string'>bdf5d019adf9931024ea40997609a8f5237b1e96.jpg</setting>
+					<setting name='icon_checksum' type='string'>3f4d5b4106477f1da53742ab02e343f3</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>524044088</name>
+					<setting name='last_seen' type='int'>1476267350</setting>
+					<setting name='buddy_icon' type='string'>d4dacb9955bd90fa33b6ca8ed5060496e276ca4d.jpg</setting>
+					<setting name='icon_checksum' type='string'>d18e576367d651e1d9e7c50f5502eb86</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100000115249731</name>
+					<setting name='last_seen' type='int'>1476268607</setting>
+					<setting name='buddy_icon' type='string'>9fd31f09dba618ebbe416ff8345b29883f922cfd.jpg</setting>
+					<setting name='icon_checksum' type='string'>40314d0f37b0425d45bbf9fbaffe976c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>563388574</name>
+					<setting name='last_seen' type='int'>1476269785</setting>
+					<setting name='buddy_icon' type='string'>afcecb1aab3075399a4acfa6bb418e49794e022b.jpg</setting>
+					<setting name='icon_checksum' type='string'>a0dbfaab563ce25e2d1e976be4af53ae</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>514233965</name>
+					<setting name='last_seen' type='int'>1476198945</setting>
+					<setting name='buddy_icon' type='string'>55a13f11ed573ef9025cddc1b196655813d769af.jpg</setting>
+					<setting name='icon_checksum' type='string'>e805fb3eb6613f9c8a1aadb922103c00</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1337981419</name>
+					<setting name='last_seen' type='int'>1476264389</setting>
+					<setting name='buddy_icon' type='string'>1bfde83984773a1493787ae0e998a824ce576941.jpg</setting>
+					<setting name='icon_checksum' type='string'>f5f3da9db94a2e860a032fd24ce1475c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1480586941</name>
+					<setting name='last_seen' type='int'>1476269373</setting>
+					<setting name='buddy_icon' type='string'>681c7bf8c1434c103530f5d5b08d7ca50fc97710.jpg</setting>
+					<setting name='icon_checksum' type='string'>99eea7ff342d323f4474e624d2371bee</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100010177935478</name>
+					<setting name='last_seen' type='int'>1476198359</setting>
+					<setting name='buddy_icon' type='string'>f6e6d53cd161ae07b1e54204b39904e839b29765.jpg</setting>
+					<setting name='icon_checksum' type='string'>fad916c8a79b72fe8e314ae1ed31b277</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1561246140</name>
+					<setting name='last_seen' type='int'>1476267023</setting>
+					<setting name='buddy_icon' type='string'>ef2d81e9580229a30bc8cc73850dbdc1fd9f3442.jpg</setting>
+					<setting name='icon_checksum' type='string'>a68fe0d4f28d3b6b8e8e49dbbd4506cb</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100002097503217</name>
+					<setting name='last_seen' type='int'>1476200107</setting>
+					<setting name='buddy_icon' type='string'>d5bef92ac891da03161b5fd0ba260c5a3d90fe7d.jpg</setting>
+					<setting name='icon_checksum' type='string'>ae39f00619d1158d86d819dff090eb8f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100005347365583</name>
+					<setting name='buddy_icon' type='string'>9d3c8fde4a5828d7aeacf9588e004fb055aba00e.jpg</setting>
+					<setting name='icon_checksum' type='string'>1bdd592f1cec377d6756034a988423d7</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1390068460</name>
+					<setting name='last_seen' type='int'>1476200743</setting>
+					<setting name='buddy_icon' type='string'>adf544b62a08507aa176f0f8c0b3463f30264347.jpg</setting>
+					<setting name='icon_checksum' type='string'>f2dca51bd46318023aed48a4cd5a4a92</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1427883677</name>
+					<setting name='last_seen' type='int'>1476195862</setting>
+					<setting name='buddy_icon' type='string'>fe34f78386e6868f92f55a4bcf4d8808cc1a001d.jpg</setting>
+					<setting name='icon_checksum' type='string'>f3e3b505e0ea15a23b2b5c5ec0bd24f1</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100002236706932</name>
+					<setting name='last_seen' type='int'>1476198415</setting>
+					<setting name='buddy_icon' type='string'>6a13988089678ffb4890cfcb712b683ada07991b.jpg</setting>
+					<setting name='icon_checksum' type='string'>2723ec056a8fe0ac69130f76184533ac</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1394144149</name>
+					<setting name='last_seen' type='int'>1476269386</setting>
+					<setting name='buddy_icon' type='string'>109bd03878b158aedef5ff4df280b85ce577860d.jpg</setting>
+					<setting name='icon_checksum' type='string'>80988c74fb83aaae10f6f721234d7ac0</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>506925168</name>
+					<setting name='last_seen' type='int'>1476270003</setting>
+					<setting name='buddy_icon' type='string'>86f1dc0b3a1c92c80fc3b5e039f3df5d14acef92.jpg</setting>
+					<setting name='icon_checksum' type='string'>123d1411dceb5d21f57906ada6e98ef5</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1494956939</name>
+					<setting name='last_seen' type='int'>1476269590</setting>
+					<setting name='buddy_icon' type='string'>4a6745e620875971656f1a893c30665f7fa98bb8.jpg</setting>
+					<setting name='icon_checksum' type='string'>c13fbd63f984692418b83f53bfa8efaa</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1048877887</name>
+					<setting name='last_seen' type='int'>1476195591</setting>
+					<setting name='buddy_icon' type='string'>4d2cd706c7f7ef2375e025fe13acb5cfe3ded242.jpg</setting>
+					<setting name='icon_checksum' type='string'>c64908801d0eb19cf3ae2f5daf7c6d6f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1139964382</name>
+					<setting name='buddy_icon' type='string'>11706d87ec973ec0f5bec0c8e209ddfe5ad3e1db.jpg</setting>
+					<setting name='icon_checksum' type='string'>e8be5890b4466796521b3c8552e92c0f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100010792537415</name>
+					<setting name='last_seen' type='int'>1476200697</setting>
+					<setting name='buddy_icon' type='string'>9a02f6481e322aebb90baf5b6c8ed5c430b1953d.jpg</setting>
+					<setting name='icon_checksum' type='string'>9a57c20da05318a9bc96660412800a65</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>100003145085107</name>
+					<setting name='last_seen' type='int'>1476269702</setting>
+					<setting name='buddy_icon' type='string'>1244b7634d4a8c10bcb67fb25b072ecb2c45c859.jpg</setting>
+					<setting name='icon_checksum' type='string'>74ea5bf416b41f3c397a989d22460035</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='charlotte@t-ara.eu' proto='prpl-facebook'>
+					<name>1397050573</name>
+					<setting name='last_seen' type='int'>1476269763</setting>
+					<setting name='buddy_icon' type='string'>df183859a827ed8f62ca529ad1b7293bbf13410a.jpg</setting>
+					<setting name='icon_checksum' type='string'>1c886a873cd078912f155660d50f6c7e</setting>
+				</buddy>
+			</contact>
+		</group>
+	</blist>
+	<privacy>
+		<account proto='prpl-facebook' name='charlotte@t-ara.eu' mode='1'/>
+		<account proto='prpl-skypeweb' name='virtual_lottie' mode='1'/>
+	</privacy>
+</purple>

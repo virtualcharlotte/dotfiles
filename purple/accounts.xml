@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<account version='1.0'>
+	<account>
+		<protocol>prpl-facebook</protocol>
+		<name>charlotte@t-ara.eu</name>
+		<password>***REMOVED***</password>
+		<alias>Charlotte</alias>
+		<statuses>
+			<status type='available' name='Available' active='true'>
+				<attributes/>
+			</status>
+			<status type='away' name='Away' active='false'>
+				<attributes/>
+			</status>
+			<status type='invisible' name='Invisible' active='false'>
+				<attributes/>
+			</status>
+			<status type='offline' name='Offline' active='false'>
+				<attributes/>
+			</status>
+		</statuses>
+		<settings>
+			<setting name='show-self' type='bool'>1</setting>
+			<setting name='stoken' type='string'>1028591699</setting>
+			<setting name='cid' type='string'>diEHVR4Tgmo7SwFy4cxX</setting>
+			<setting name='check-mail' type='bool'>0</setting>
+			<setting name='did' type='string'>71a95b71-edf3-4571-bed8-215077129703</setting>
+			<setting name='show-unread' type='bool'>1</setting>
+			<setting name='token' type='string'>EAADo1TDZCuu8BAPbbtIMaoU6NhtXroWXwqjTP4noms5ZA0fReCYakhv1T9FtX6q5LazzQth8FSn8CTcsX9oEI83a2Lk7S7TDxLCqy2wSpR9h0DEldLGS5oZAX47rIAssNycZCGWn4IzafzPZB8RARMQrfzz7sStM1ZCqrvh37hZAQZDZD</setting>
+			<setting name='mid' type='string'>2668133488</setting>
+			<setting name='sync-interval' type='int'>30</setting>
+			<setting name='uid' type='string'>100009773347021</setting>
+			<setting name='group-chat-open' type='bool'>1</setting>
+			<setting name='mark-read' type='bool'>1</setting>
+		</settings>
+		<settings ui='gnt-purple'>
+			<setting name='auto-login' type='bool'>1</setting>
+		</settings>
+		<current_error/>
+	</account>
+	<account>
+		<protocol>prpl-skypeweb</protocol>
+		<name>virtual_lottie</name>
+		<password>***REMOVED***</password>
+		<alias>Charlotte</alias>
+		<statuses>
+			<status type='Online' name='Online' active='false'>
+				<attributes/>
+			</status>
+			<status type='Idle' name='Away' active='true'>
+				<attributes>
+					<attribute id='message' value='I&apos;m not here right now'/>
+				</attributes>
+			</status>
+			<status type='Away' name='Not Available' active='false'>
+				<attributes/>
+			</status>
+			<status type='Busy' name='Do Not Disturb' active='false'>
+				<attributes/>
+			</status>
+			<status type='Hidden' name='Invisible' active='false'>
+				<attributes/>
+			</status>
+			<status type='Offline' name='Offline' active='false'>
+				<attributes/>
+			</status>
+		</statuses>
+		<settings>
+			<setting name='show-typing-as-text' type='bool'>1</setting>
+			<setting name='show-typing-as-icon' type='bool'>0</setting>
+			<setting name='last_message_timestamp' type='int'>1476191242</setting>
+			<setting name='check-mail' type='bool'>0</setting>
+			<setting name='' type='bool'>0</setting>
+		</settings>
+		<settings ui='gnt-purple'>
+			<setting name='auto-login' type='bool'>0</setting>
+		</settings>
+		<current_error>
+			<type>2</type>
+			<description>Failed getting Skype Token</description>
+		</current_error>
+	</account>
+</account>
