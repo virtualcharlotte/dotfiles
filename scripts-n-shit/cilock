@@ -11,3 +11,5 @@ convert $IMAGE $ICON -gravity center -composite -matte $IMAGE
 i3lock -e -f -i $IMAGE 
 #ignore empty passwords and show failures
 rm $IMAGE #clean up ur mess charlotte
+
+#TBC: store failed password attempts
