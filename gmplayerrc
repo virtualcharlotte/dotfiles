@@ -1,6 +1,7 @@
 {
   "email": "charlotte@t-ara.eu",
-  "password": "********", //normal password
+  "password": "b3030ffa73493f604b5823df963bee96",
+  "musicdirectory": "/home/charlotte/Music/gmplayer",
   "tracknaming": "{title} - {artist}",
   "albumnaming": "{album}",
   "playlistnaming": "{name} - {albumArtist}"
