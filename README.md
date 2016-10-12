@@ -9,6 +9,8 @@ PREREQS
 - pip install powerline
 - dnf install scrot ImageMagick
 - add dnf copr repo for purple-skypeweb and purple-facebook
+- dnf install ffmpeg mplayer node npm
+- npm install -g gmplayer
 
 INSTRUCTIONS
 - install fonts from assets file
