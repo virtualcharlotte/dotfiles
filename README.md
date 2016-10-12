@@ -13,6 +13,7 @@ PREREQS
 INSTRUCTIONS
 - install fonts from assets file
 - move nsalock.png from assets to ~/.xlock/nsalock.png
+- copy wallpapers from assets/wp to ~/.wallpapers
 - copy vimrc folder to ~./vim_runtime and run the awesome .sh
 - copy weechat folder to ~/.weechat
 - copy purple folder to ~/.purple
