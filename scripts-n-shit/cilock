@@ -1,15 +1,16 @@
 IMAGE=/tmp/i3lock.png
 SCREENSHOT="scrot $IMAGE" 
-ICON="$HOME/.xlock/nsalock.png"
+ICONS=("$HOME/.xlock/sad.png" "$HOME/.xlock/sesh.png" "$HOME/.xlock/nsalock.png")
+RANDOM=$$$(date +%s)
 
-BLURTYPE="0x5" # blur it yo make it unintelligible
+RIMAGE=${ICONS[$RANDOM % ${#ICONS[@]} ]}
+
+BLURTYPE="0x5" # blur that shit yo make it unintelligible
 
 #take screenshot, blur it and composite logo
 $SCREENSHOT
 convert $IMAGE -blur $BLURTYPE $IMAGE
-convert $IMAGE $ICON -gravity center -composite -matte $IMAGE
+convert $IMAGE $RIMAGE -gravity center -composite -matte $IMAGE
 i3lock -e -f -i $IMAGE 
 #ignore empty passwords and show failures
 rm $IMAGE #clean up ur mess charlotte
-
-#TBC: store failed password attempts
