@@ -34,12 +34,13 @@ set guioptions-=L
 " Colorscheme
 if has("gui_running")
     set background=dark
-    colorscheme peaksea
+    colorscheme bubblegum
 else
-    colorscheme desert
-    let g:colors_name="desert"
+    colorscheme elflord
+    let g:colors_name="slate"
 endif
 
+let g:airline_powerline_fonts = 1
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Fast editing and reloading of vimrc configs

@@ -57,7 +57,7 @@ set autoread
 " like <leader>w saves the current file
 let mapleader = ","
 let g:mapleader = ","
-
+set showcmd
 " Fast saving
 nmap <leader>w :w!<cr>
 
@@ -137,6 +137,7 @@ set t_vb=
 set tm=500
 
 " Add a bit extra margin to the left
+set foldcolumn=1
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
