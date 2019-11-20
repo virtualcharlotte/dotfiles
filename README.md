@@ -1,4 +1,8 @@
 # dotfiles
+
+**These are well out of date and need replacing**`
+
+
 ay, its muh dotfiles. lots of love, shallot
 
 Instructions & prerequisites:
